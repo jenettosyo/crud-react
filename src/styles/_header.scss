@@ -1,0 +1,13 @@
+.header-container {
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  height: 113px;
+  background: $header-color;
+  text-align: left;
+  font-weight: bold;
+  color: $header-tex-color;
+  font-size: 42px;
+  padding-left: 39px;
+  margin-bottom: 52px;
+}
